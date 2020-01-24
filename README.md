@@ -1,4 +1,4 @@
-# Resolute Assurance Case Analysis
+# BreifCASE - A collection of tools for the DARPA CASE program
 
 TBD
 
@@ -9,5 +9,5 @@ TBD
 ## Development Guide
 
 See the main [BriefCASE](https://github.com/loonwerks/BriefCASE.git)
-repository for information regarding developing and maintaining Resolute.
+repository for information regarding developing and maintaining BriefCASE.
 
