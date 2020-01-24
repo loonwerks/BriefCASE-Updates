@@ -1,4 +1,4 @@
-# BreifCASE - A collection of tools for the DARPA CASE program
+# BriefCASE - A collection of tools for the DARPA CASE program
 
 TBD
 
