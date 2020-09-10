@@ -3,11 +3,12 @@
 <repository name='&quot;Eclipse Project Test Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1243822506000'/>
+    <property name='p2.timestamp' value='1599763931883'/>
   </properties>
-  <children size='3'>
+  <children size='4'>
     <child location='briefcase_0.1.0'/>
     <child location='briefcase_0.2.0'/>
     <child location='briefcase_0.2.1'/>
+    <child location='briefcase_0.3.0'/>
   </children>
 </repository>
