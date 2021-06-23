@@ -3,9 +3,9 @@
 <repository name='&quot;Eclipse Project Test Site&quot;'
     type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1624408700298'/>
+    <property name='p2.timestamp' value='1624421845245'/>
   </properties>
-  <children size='7'>
+  <children size='8'>
     <child location='briefcase_0.1.0'/>
     <child location='briefcase_0.2.0'/>
     <child location='briefcase_0.2.1'/>
@@ -13,5 +13,6 @@
     <child location='briefcase_0.4.0'/>
     <child location='briefcase_0.4.1'/>
     <child location='briefcase_0.5.0'/>
+    <child location='briefcase_0.5.1'/>
   </children>
 </repository>
