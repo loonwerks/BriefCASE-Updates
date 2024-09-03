@@ -2,9 +2,10 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='BriefCASE Snapshots' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1725375074246'/>
+    <property name='p2.timestamp' value='1725379205160'/>
   </properties>
-  <children size='1'>
+  <children size='2'>
     <child location='0.9.0.202409031447'/>
+    <child location='0.9.0.202409031555'/>
   </children>
 </repository>
